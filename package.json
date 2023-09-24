@@ -56,6 +56,7 @@
     "react-image-gallery": "1.3.0",
     "react-jsx-runtime": "1.0.0-alpha.1",
     "react-refresh": "^0.11.0",
+    "react-scripts": "5.0.1",
     "regenerator-runtime": "0.13.11",
     "rerousel": "0.1.9",
     "resolve": "^1.20.0",

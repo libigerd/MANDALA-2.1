@@ -1,3 +1,4 @@
+// eslint-disable-next-line 
 import React, { useState } from "react";
 import Mandala from "./js/Mandala";
 import {
@@ -81,7 +82,7 @@ export default function App() {
             <div>
               <header>
                 <div className="header-wrapper">
-                  <h1>Vyberte obrázek</h1>
+                
                 </div>
               </header>
             </div>
