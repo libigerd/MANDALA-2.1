@@ -2,6 +2,7 @@
   "name": "mandala-20",
   "version": "1.0.6",
   "description": "",
+  "homepage": "./",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

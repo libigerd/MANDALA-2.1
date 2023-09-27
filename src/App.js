@@ -1,5 +1,6 @@
 // eslint-disable-next-line 
 import React, { useState } from "react";
+import { HashRouter } from "react-router-dom";
 import Mandala from "./js/Mandala";
 import {
   Card,
@@ -31,7 +32,7 @@ export default function App() {
   };
 
   return (
-    <>
+    <HashRouter>
       <div className="ModalInstructions">
         <Modal
           show={modalShow}
@@ -132,6 +133,6 @@ export default function App() {
           </div>
         </Card.Footer>
       </Card>
-    </>
+    </HashRouter>
   );
 }
